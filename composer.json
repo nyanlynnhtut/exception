@@ -1,0 +1,19 @@
+{
+    "name": "nlh/exception",
+    "description": "Base exception class for php",
+    "version": "0.1",
+    "keywords": ["exception", "error"],
+    "homepage": "https://github.com/nyanlynnhtut/exception",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nyan Lynn Htut",
+            "email": "lynnhtut87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": ["lib/BaseException.php"]
+    }
+}
